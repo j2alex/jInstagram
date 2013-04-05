@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/sachin-handiekar/jInstagram.png)](https://travis-ci.org/sachin-handiekar/jInstagram)
 
 A Java wrapper for the [Instagram API](http://instagram.com/developer/).
-
+ 
 Note : jInstagram uses code from the [scribe-java] (https://github.com/fernandezpablo85/scribe-java) library developed by [Pablo Fernandez] (https://github.com/fernandezpablo85). 
 
 
