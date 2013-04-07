@@ -44,7 +44,7 @@
 
 	<scm>
 		<connection>scm:git:git@github.com/j2alex/jInstagram.git</connection>
-		<developerConnection>scm:git:git@github.com:j2alex/jInstagram.git</developerConnection>
+		<developerConnection>scm:git:git@github.com/j2alex/jInstagram.git</developerConnection>
 	</scm>
 
 	<dependencies>
