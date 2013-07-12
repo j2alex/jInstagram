@@ -40,7 +40,7 @@ public class InstagramApi {
 		return new AccessTokenExtractor() {
 			private Pattern accessTokenPattern = Pattern.compile(Constants.ACCESS_TOKEN_EXTRACTOR_REGEX);
 
-			@Override
+//			@Override FIXME Pâmela
 			public Token extract(String response) {
 				Preconditions.checkEmptyString(response, "Cannot extract a token from a null or empty String");
 
